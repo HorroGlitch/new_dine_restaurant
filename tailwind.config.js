@@ -14,6 +14,11 @@ export default {
         'noir': '#111111',
         'primary' : '#ffffff',
     },
+      fonts: {
+        'lightSpartan': ['League Spartan'],
+        'semiBoldSpartan': '',
+        'boldSpartan': '',
+      }
     },
   },
   plugins: [],
